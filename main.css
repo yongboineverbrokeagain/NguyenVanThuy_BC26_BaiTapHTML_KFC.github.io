@@ -10,7 +10,7 @@
     height: 100px;
 }
 
-.header__navigation-item {
+.header__navigation--item {
     display: block;
     font-size: 20px;
 }
