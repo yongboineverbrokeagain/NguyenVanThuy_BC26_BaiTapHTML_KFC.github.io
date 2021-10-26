@@ -1,0 +1,51 @@
+
+
+.header h1 {
+    background-color: red;
+    color: white;
+}
+
+.header__image {
+    width: 100px;
+    height: 100px;
+}
+
+.header__navigation-item {
+    display: block;
+    font-size: 20px;
+}
+
+.carousel__introduce, .carousel__development {
+    background-color: #A5292A;
+    color: white;
+}
+
+.carousel__introduce {
+    font-size: 30px;
+    text-align: justify;
+}
+
+.carousel__introduce h2 {
+    text-align: center;
+}
+
+.carousel__introduce p i {
+    color: #000;
+    font-weight: bold;
+}
+
+.carousel__development--list {
+    font-size: 25px;
+}
+
+.carousel__development h1 {
+    text-align: center;
+}
+
+.teaheight1 {
+    height: 120px;
+}
+
+.teaheight2 {
+    height: 180px;
+}
